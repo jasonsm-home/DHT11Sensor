@@ -13,8 +13,8 @@ Dht11Sensor	KEYWORD1
 #######################################
 
 refreshMeasurements	KEYWORD2
-temperature KEYWORD2
-humidity    KEYWORD2
+temperature	KEYWORD2
+humidity	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
